@@ -1,0 +1,43 @@
+﻿@using Microsoft.AspNetCore.Authorization
+@using Microsoft.AspNetCore.Components.WebAssembly.Authentication
+@using NombreDelProyecto.Shared
+@attribute [Authorize]
+<h3>Solo para personal Autorizado</h3>
+
+<h3>Tabla De Ingresos</h3>
+<table class="table table-primary">
+    <thead>
+        <tr>
+            <td>Nombre</td>
+            <td>Apellido</td>
+            <td>Pago</td>
+            <td>Motivo</td>
+            <td>Editar</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Dagoberto</td>
+            <td>Sanchez</td>
+            <td>1500.000</td>
+            <td>Bono</td>
+            <td>
+                <button class="btn btn-primary"><i class="oi oi-pencil"></i></button>
+            </td>
+        </tr>
+        <tr>
+            <td>Sofia</td>
+            <td>Lorem</td>
+            <td>2500.000</td>
+            <td>Viaticos</td>
+            <td>
+                <button class="btn btn-primary"><i class="oi oi-pencil"></i></button>
+            </td>
+        </tr>
+
+    </tbody>
+</table>
+
+@code {
+
+}

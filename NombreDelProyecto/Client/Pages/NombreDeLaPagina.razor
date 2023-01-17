@@ -1,0 +1,12 @@
+﻿@page "/enlacepagina"
+@using Microsoft.AspNetCore.Authorization
+@using Microsoft.AspNetCore.Components.WebAssembly.Authentication
+@using NombreDelProyecto.Shared
+@attribute [Authorize]
+@inject HttpClient Http
+<h3>Contenido confidencial</h3>
+<NombreComponente/>
+
+@code {
+
+}

@@ -1,0 +1,12 @@
+C:\Users\Dagoberto\source\repos\NombreDelProyecto\Shared\bin\Debug\net6.0\NombreDelProyecto.Shared.deps.json
+C:\Users\Dagoberto\source\repos\NombreDelProyecto\Shared\bin\Debug\net6.0\NombreDelProyecto.Shared.dll
+C:\Users\Dagoberto\source\repos\NombreDelProyecto\Shared\bin\Debug\net6.0\NombreDelProyecto.Shared.pdb
+C:\Users\Dagoberto\source\repos\NombreDelProyecto\Shared\obj\Debug\net6.0\NombreDelProyecto.Shared.csproj.AssemblyReference.cache
+C:\Users\Dagoberto\source\repos\NombreDelProyecto\Shared\obj\Debug\net6.0\NombreDelProyecto.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dagoberto\source\repos\NombreDelProyecto\Shared\obj\Debug\net6.0\NombreDelProyecto.Shared.AssemblyInfoInputs.cache
+C:\Users\Dagoberto\source\repos\NombreDelProyecto\Shared\obj\Debug\net6.0\NombreDelProyecto.Shared.AssemblyInfo.cs
+C:\Users\Dagoberto\source\repos\NombreDelProyecto\Shared\obj\Debug\net6.0\NombreDelProyecto.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Dagoberto\source\repos\NombreDelProyecto\Shared\obj\Debug\net6.0\NombreDelProyecto.Shared.dll
+C:\Users\Dagoberto\source\repos\NombreDelProyecto\Shared\obj\Debug\net6.0\refint\NombreDelProyecto.Shared.dll
+C:\Users\Dagoberto\source\repos\NombreDelProyecto\Shared\obj\Debug\net6.0\NombreDelProyecto.Shared.pdb
+C:\Users\Dagoberto\source\repos\NombreDelProyecto\Shared\obj\Debug\net6.0\ref\NombreDelProyecto.Shared.dll
